@@ -1,0 +1,3 @@
+C:/Users/XaveF/Documents/Practices/C-RuleThree5aa/cmake-build-debug/CMakeFiles/C_RuleThree5aa.dir
+C:/Users/XaveF/Documents/Practices/C-RuleThree5aa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/XaveF/Documents/Practices/C-RuleThree5aa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

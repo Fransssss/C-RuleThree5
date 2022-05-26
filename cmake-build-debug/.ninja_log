@@ -1,0 +1,20 @@
+# ninja log v5
+12	2682	6753024994504279	CMakeFiles/C_RuleThree5aa.dir/MyClass.cpp.obj	698f20c52b51c7a5
+1	2693	6753024994504279	CMakeFiles/C_RuleThree5aa.dir/main.cpp.obj	347bbc8da5f33d6d
+2694	3126	6753024998903594	C_RuleThree5aa.exe	59b9f09e42687f2e
+11	883	6753025519255021	CMakeFiles/C_RuleThree5aa.dir/MyClass.cpp.obj	698f20c52b51c7a5
+884	1301	6753025523453852	C_RuleThree5aa.exe	59b9f09e42687f2e
+8	1363	6753033341648534	CMakeFiles/C_RuleThree5aa.dir/main.cpp.obj	347bbc8da5f33d6d
+1364	1604	6753033343942794	C_RuleThree5aa.exe	59b9f09e42687f2e
+12	936	6753033454564752	CMakeFiles/C_RuleThree5aa.dir/main.cpp.obj	347bbc8da5f33d6d
+938	1321	6753033458462772	C_RuleThree5aa.exe	59b9f09e42687f2e
+14	1489	6753034561228956	CMakeFiles/C_RuleThree5aa.dir/main.cpp.obj	347bbc8da5f33d6d
+1490	1784	6753034564129770	C_RuleThree5aa.exe	59b9f09e42687f2e
+7	941	6753034709106118	CMakeFiles/C_RuleThree5aa.dir/main.cpp.obj	347bbc8da5f33d6d
+943	1273	6753034712458541	C_RuleThree5aa.exe	59b9f09e42687f2e
+15	453	6753037831862665	CMakeFiles/C_RuleThree5aa.dir/main.cpp.obj	347bbc8da5f33d6d
+454	653	6753037833760577	C_RuleThree5aa.exe	59b9f09e42687f2e
+4	408	6753038674490798	CMakeFiles/C_RuleThree5aa.dir/main.cpp.obj	347bbc8da5f33d6d
+408	589	6753038676308926	C_RuleThree5aa.exe	59b9f09e42687f2e
+6	546	6753039112975384	CMakeFiles/C_RuleThree5aa.dir/main.cpp.obj	347bbc8da5f33d6d
+548	767	6753039115110301	C_RuleThree5aa.exe	59b9f09e42687f2e
